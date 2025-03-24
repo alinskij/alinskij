@@ -17,7 +17,7 @@ I'm currently learning C and C++ to become a Linux kernel maintainer and develop
 </p>  
 
 ## 🚀 Projects
-- **[hgs](github.com/alinskij/hgs)** - Hyprland Gruvbox Setup - convenience and minimalism
+- **[hgs](github.com/alinskij/hgs)** - Hyprland Gruvbox Setup - convenience and minimalism  
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alinskij&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>  
