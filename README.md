@@ -3,9 +3,9 @@ I'm currently learning C and C++ to become a Linux kernel maintainer and develop
 
 ## 📫 Contact Me:
 - **Email**: alinskij@proton.me  
-- **Telegram**: [alinskij](t.me/alinskij)  
-- **X**: [alinsk1j](x.com/alinsk1j)  
-- **Instagram**: [Instagram](instagram.com/alinsk1j)
+- **Telegram**: [@alinskij](t.me/alinskij)  
+- **X**: [@alinsk1j](x.com/alinsk1j)  
+- **Instagram**: [@alinsk1j](instagram.com/alinsk1j)
 
 ## 💻 Tech Stack:
 <p align="center">
