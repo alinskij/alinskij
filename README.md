@@ -11,8 +11,10 @@ I'm currently learning C and C++ to become a Linux kernel maintainer and develop
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alinskij&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alinskij&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=alinskij&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>  
+
+![](https://nirzak-streak-stats.vercel.app/?user=alinskij&theme=tokyonight&hide_border=true)<br/>  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alinskij&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
