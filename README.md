@@ -6,6 +6,7 @@ I'm currently learning C and C++ to become a Linux kernel maintainer and develop
 - **Telegram**: [@alinskij](t.me/alinskij)  
 - **X**: [@alinsk1j](x.com/alinsk1j)  
 - **Instagram**: [@alinsk1j](instagram.com/alinsk1j)
+- **Matrix**: [@alinskij](@alinskij:matrix.org)  
 
 ## 💻 Tech Stack:
 <p align="center">
