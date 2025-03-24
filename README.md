@@ -6,7 +6,7 @@ I'm currently learning C and C++ to become a Linux kernel maintainer and develop
 - **Telegram**: [alinskij](t.me/alinskij)  
 - **X**: [alinsk1j](x.com/alinsk1j)  
 - **Instagram**: [Instagram](instagram.com/alinsk1j)
-- 
+
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
@@ -26,4 +26,6 @@ I'm currently learning C and C++ to become a Linux kernel maintainer and develop
 
 ## 💰 Support Me
 You can support me by transferring crypto to the wallet below:  
-- **Toncoin**: UQBbPXUJnF7f7UsduvxThi9BMt0T58m10YICQAB-Gyobw037
+- **Toncoin**: `UQBbPXUJnF7f7UsduvxThi9BMt0T58m10YICQAB-Gyobw037`
+- **USDT**:
+- **Bitcoin**:
