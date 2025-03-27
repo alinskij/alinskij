@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm currently learning C and C++ to become a Linux kernel maintainer and develop other cool stuff on Linux. I like to work with computers at the lowest and simplest level possible, rather than using high-level programming languages. I try to stick to the UNIX philosophy when developing. Besides development, I'm into books and cryptocurrency.  
+I'm currently learning C and C++ to become a Linux kernel maintainer and develop other cool stuff on Linux. I like to work with computers at the lowest and simplest level possible, rather than using high-level programming languages. I try to stick to the UNIX philosophy when developing. Besides development, I'm into books and blogging.  
 
 ## 📫 Contact Me:
 - **Email**: alinskij@proton.me  
